@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.autoComplete.extraPaths": [
+			"C:\\Users\\polar\\.virtualenvs\\getting-started-with-python-and-mongodb-gdumt-jF\\Lib\\site-packages"
+		],
+		"python.analysis.extraPaths": [
+			"C:\\Users\\polar\\.virtualenvs\\getting-started-with-python-and-mongodb-gdumt-jF\\Lib\\site-packages"
+		]
+	}
+}
